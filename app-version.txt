@@ -1,0 +1,2 @@
+6
+https://github.com/pjuang45/tokocom/releases/download/v1.0/tokocom.apk
